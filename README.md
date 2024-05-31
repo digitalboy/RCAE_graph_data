@@ -2,7 +2,7 @@
 
 本数据集属于**数学根因分析与练习系统（Root Cause Analysis and Exercises for Mathematics, RCAE）**的基础子项目之一。旨在可以高效的发现学生数学学业错误的根本原因。
 
-(https://raw.githubusercontent.com/digitalboy/mathGPT_graph_data/main/sample.png)
+![示例图片](https://raw.githubusercontent.com/digitalboy/mathGPT_graph_data/main/sample.png)
 
 ## 总项目介绍
 
