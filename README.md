@@ -1,12 +1,12 @@
 # 说明
 
-本数据集属于**数学根因分析与练习系统（Root Cause Analysis and Exercises for Mathematics, RCAE）**的基础子项目之一。旨在可以高效的发现学生数学学业错误的根本原因。
+本数据集属于 **数学根因分析与练习系统（Root Cause Analysis and Exercises for Mathematics, RCAE）** 的基础子项目之一。旨在可以高效的发现学生数学学业错误的根本原因。
 
 ![示例图片](https://raw.githubusercontent.com/digitalboy/mathGPT_graph_data/main/sample.png)
 
 ## 总项目介绍
 
-**数学根因分析与练习系统（RCAE）**是一款利用先进的图数据库技术和强大的数据分析算法，旨在革新数学教育的系统。通过对学生答题记录的分析，RCAE能够快速定位学生掌握不牢固的知识点，并生成个性化的练习计划，帮助学生高效提升数学成绩。
+**数学根因分析与练习系统（RCAE）** 是一款利用先进的图数据库技术和强大的数据分析算法，旨在革新数学教育的系统。通过对学生答题记录的分析，RCAE能够快速定位学生掌握不牢固的知识点，并生成个性化的练习计划，帮助学生高效提升数学成绩。
 
 ## 此数据集的意义
 
