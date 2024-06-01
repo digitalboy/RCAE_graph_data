@@ -36,6 +36,14 @@
 2. **加载数据**：将下载的JSON数据导入图数据库（如Neo4j）。
 3. **构建知识图谱**：使用图数据库工具构建知识点之间的关系图谱。
 
+## API
+
+https://math.beike.ai/api/graph/get_nodes_edges  
+### Params:
+grades (小学六年级上册,小学六年级下册)
+subject (数学)
+
+
 ## 版权声明
 本数据集和相关代码由[张扬]创建，采用 **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)** 许可证进行许可。
 
