@@ -35,6 +35,7 @@
 1. **下载数据集**：从GitHub仓库下载JSON格式的知识点图数据。
 2. **加载数据**：将下载的JSON数据导入图数据库（如Neo4j）。
 3. **构建知识图谱**：使用图数据库工具构建知识点之间的关系图谱。
+4. **使用API**：如下。
 
 ## API
 https://math.beike.ai/api/graph/get_nodes_edges  
