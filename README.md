@@ -37,11 +37,9 @@
 3. **构建知识图谱**：使用图数据库工具构建知识点之间的关系图谱。
 4. **使用API**：如下。
 
-## API
-https://math.beike.ai/api/graph/get_nodes_edges  
-### Params:
-grades (小学六年级上册,小学六年级下册)
-subject (数学)
+## 体验地址
+https://math.beike.ai/admin/test 
+
 
 
 ## 版权声明
