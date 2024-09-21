@@ -4,6 +4,8 @@
 
 ![示例图片](https://raw.githubusercontent.com/digitalboy/mathGPT_graph_data/main/sample.png)
 
+![示例图片](https://raw.githubusercontent.com/digitalboy/mathGPT_graph_data/main/bio.png)
+
 ## 总项目介绍
 
 **根因分析与练习系统（RCAE）** 是一款利用先进的图数据库技术和强大的数据分析算法，旨在革新教育的系统。通过对学生答题记录的分析，RCAE能够快速定位学生掌握不牢固的知识点，并生成个性化的练习计划，帮助学生高效提升成绩。
